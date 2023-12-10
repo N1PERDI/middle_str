@@ -65,12 +65,8 @@ string itc_maxCharWord(string str)
 	{
 		if (str[i] != ' ')
 		{
-			if (str[i] == ' ') 
-			{
-				break;
-			}
 			word += str[i];
-			sim++;
+
 		}
 
 	}
