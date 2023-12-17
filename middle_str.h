@@ -8,3 +8,5 @@ std::string itc_Cezar(std::string str, int k);
 std::string itc_maxCharWord(std::string str);
 char itc_sameChar(std::string str);
 std::string itc_decToBase(int num, int base);
+bool itc_isFirstInSecond(std::string s1, std::string s2);
+std::string itc_rmFreeSpace(std::string str);
